@@ -1,0 +1,15 @@
+Hola me llamo Carlos Daniel Avalos Chirinos
+
+##     ##
+##     ##
+
+#########
+#########
+
+Esta es una prueba desde el usario Daniel Avalos
+
+Mañana nos enfocaremos en su vida universitaria
+
+Hola este un caso nuevo de git rm
+Este es un segundo caso de git rm
+Este una prueba de reset head
